@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-honolulu",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Honolulu GIS — Honolulu, Hawaii open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d58e6adf4502155cadf1564fc2adc38628ee7d389034e6efe1722676afb7e8d5",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-c41260ca7a863b2b43f5b32a37278e98fc535489f786f39e58fa80a952b5a09e",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
